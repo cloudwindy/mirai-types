@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_config.schema.json",
+  "name": "mirai",
+  "words": [
+    "app%.%w+",
+    "app:%w+"
+  ],
+  "files": [
+    "app/project.lua"
+  ]
+}
