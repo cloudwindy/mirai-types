@@ -6,6 +6,6 @@
     "app:%w+"
   ],
   "files": [
-    "app/project.lua"
+    "project%.lua"
   ]
 }
