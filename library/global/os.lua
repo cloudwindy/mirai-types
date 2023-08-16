@@ -45,4 +45,4 @@ stat.modtime = 0
 
 --- 文件模式
 ---@type string
-stat.mode = 'drwxr-xr-x'
+stat.mode = "drwxr-xr-x"
